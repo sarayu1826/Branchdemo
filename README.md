@@ -1,2 +1,2 @@
 # Branchdemo
-cloning
+this project demonsytrates branching
